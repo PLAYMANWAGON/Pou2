@@ -1,0 +1,16 @@
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\bin\Debug\net5.0\Pou2.exe
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\bin\Debug\net5.0\Pou2.deps.json
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\bin\Debug\net5.0\Pou2.runtimeconfig.json
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\bin\Debug\net5.0\Pou2.runtimeconfig.dev.json
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\bin\Debug\net5.0\Pou2.dll
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\bin\Debug\net5.0\ref\Pou2.dll
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\bin\Debug\net5.0\Pou2.pdb
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\Pou2.csprojAssemblyReference.cache
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\Pou2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\Pou2.AssemblyInfoInputs.cache
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\Pou2.AssemblyInfo.cs
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\Pou2.csproj.CoreCompileInputs.cache
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\Pou2.dll
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\ref\Pou2.dll
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\Pou2.pdb
+C:\Users\aironas.keturka\Documents\MokykliniaiSudai\Gaming\Prog2\Pou2\Pou2\obj\Debug\net5.0\Pou2.genruntimeconfig.cache
